@@ -24,7 +24,7 @@ var config = {
             image: '',
             description: '',
             location: {
-                center: [28.959, 41.018],
+                center: [28.95113663816899, 41.016056499303744],
                 zoom: 14,
                 pitch: 0,
                 bearing: 0
@@ -43,8 +43,8 @@ var config = {
             image: 'https://i.ibb.co/fz663h3g/MEF-AAP-027-BAP-2025-06-13-08-52-21.png ',
             description: '',
             location: {
-                center: [28.959 , 41.018],
-                zoom: 14,
+                center: [28.95113663816899, 41.016056499303744],
+                zoom: 17,
                 pitch: 0,
                 bearing: 0
             },
