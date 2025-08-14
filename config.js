@@ -11,7 +11,7 @@ var config = {
     theme: 'light',
     use3dTerrain: false,
     auto: false,
-    title: 'Su Terazisi / Water Level',
+    title: 'Saraçlar Su Terazisi / Water Level',
     subtitle: '',
     byline: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
     footer: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
